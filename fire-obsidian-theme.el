@@ -5,7 +5,7 @@
 ;; Copyright (C) 2009-2010 Jason R. Blevins
 
 ;; Author: Bruno Ciccarino <brunociccarinoo@gmail.com>
-;; URL: http://github.com/bgcicca/fire-obsidian-theme
+;; URL: http://github.com/bgcicca/fire-obsidian-theme.el
 ;; Version: 0.1
 
 ;; Permission is hereby granted, free of charge, to any person
