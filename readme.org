@@ -1,0 +1,16 @@
+* Sexy theme
+
+Fire Obsidian color theme for Emacs by Bruno Ciccarino. A high contrast colors variant of the Gruber Darker theme for deftheme by rexim. Extended by Bruno Ciccarino a.k.a. cicca.
+
+[[./fire-obsidian.png]]
+
+** Install
+
+To install it is very simple, just clone the repository and add this to your init file:
+
+#+BEGIN_SRC
+(add-to-list 'custom-theme-load-path
+             "/path/to/fire-obsidian/theme/")
+#+END_SRC
+
+- TODO: add this theme to melpa packages 
